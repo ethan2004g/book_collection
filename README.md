@@ -1,2 +1,2 @@
 # book_collection
-Repo for my Book Collection App
+This is the Read me for my book collection.
